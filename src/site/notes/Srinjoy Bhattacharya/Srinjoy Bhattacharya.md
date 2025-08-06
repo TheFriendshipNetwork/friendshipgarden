@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["bestfriend"],"aliases":null,"name":"Srinjoy Bhattacharya","phone-number":null,"permalink":"/srinjoy-bhattacharya/srinjoy-bhattacharya/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"tags":["bestfriend"],"aliases":null,"name":"Srinjoy Bhattacharya","phone":"+91 74391 22518","whatsapp-number":"https://wa.me/7439122518","permalink":"/srinjoy-bhattacharya/srinjoy-bhattacharya/","dgPassFrontmatter":true}
 ---
 
 He Is The Best Friend Of [[_Shatadru Bose\|_Shatadru Bose]].
