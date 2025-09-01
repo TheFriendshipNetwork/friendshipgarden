@@ -2,6 +2,9 @@
 {"dg-publish":true,"dg-home":null,"tags":["bestfriend"],"aliases":null,"name":"Arinjoy Sarkar","phone-location":"India","phone-number":8240780849,"date-of-birth":"2011-12-24","place-of-birth":"Navi Mumbai, India","permalink":"/arinjoy-sarkar/arinjoy-sarkar/","dgPassFrontmatter":true}
 ---
 
+![Pasted image 20250901141831.png](/img/user/xAssets/Attachments/Pasted%20image%2020250901141831.png)
+
+
 Information:
 - School: ADAMAS, Rathtala, West Bengal, India.
 - Games:

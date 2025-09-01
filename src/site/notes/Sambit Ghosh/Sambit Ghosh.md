@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["bestfriend"],"aliases":null,"name":"Sambit Ghosh","phone-number":null,"permalink":"/sambit-ghosh/sambit-ghosh/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"tags":["friend"],"aliases":null,"name":"Sambit Ghosh","phone-number":null,"permalink":"/sambit-ghosh/sambit-ghosh/","dgPassFrontmatter":true}
 ---
 
 He Is The Best Friend Of [[_Shatadru Bose\|_Shatadru Bose]].
